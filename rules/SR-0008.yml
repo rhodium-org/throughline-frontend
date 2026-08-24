@@ -1,0 +1,12 @@
+uid: SR-0008
+type: system_requirement
+status: approved
+title: Use the HTML5 document type
+text: >-
+  Use HTML, preferably the HTML5 syntax, and begin every document with <!doctype html> so
+  it renders in no-quirks mode; do not close void elements.
+links:
+- target: UR-0004
+  type: implements
+attrs:
+  source_ref: "Google HTML/CSS Style Guide: HTML — Style Rules — Document Type"

@@ -1,0 +1,12 @@
+uid: SR-0023
+type: system_requirement
+status: approved
+title: Separate words in class names with a hyphen
+text: >-
+  Separate words in class names by a hyphen; do not concatenate words and abbreviations by
+  any other character, including no character at all, or underscores.
+links:
+- target: UR-0006
+  type: implements
+attrs:
+  source_ref: "Google HTML/CSS Style Guide: CSS — Style Rules — Class Name Delimiters"

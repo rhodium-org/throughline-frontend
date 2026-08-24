@@ -1,0 +1,12 @@
+uid: SR-0036
+type: system_requirement
+status: approved
+title: Put a space after a property colon
+text: >-
+  Use a single space after a property name's colon, and no space before it, for
+  consistency.
+links:
+- target: UR-0007
+  type: implements
+attrs:
+  source_ref: "Google HTML/CSS Style Guide: CSS — Formatting Rules — Property Name Stops"

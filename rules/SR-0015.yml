@@ -1,0 +1,12 @@
+uid: SR-0015
+type: system_requirement
+status: approved
+title: Omit type attributes for style sheets and scripts
+text: >-
+  Omit type attributes for style sheets and scripts, as HTML5 implies text/css and
+  text/javascript as defaults.
+links:
+- target: UR-0004
+  type: implements
+attrs:
+  source_ref: "Google HTML/CSS Style Guide: HTML — Style Rules — type Attributes"

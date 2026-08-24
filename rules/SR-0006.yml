@@ -1,0 +1,12 @@
+uid: SR-0006
+type: system_requirement
+status: approved
+title: Explain code with comments as needed
+text: >-
+  Use comments to explain code as needed, where space allows: what it covers, what purpose
+  it serves, and why the respective solution is used or preferred.
+links:
+- target: UR-0003
+  type: implements
+attrs:
+  source_ref: "Google HTML/CSS Style Guide: General — Meta Rules — Comments"

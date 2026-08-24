@@ -1,0 +1,12 @@
+uid: SR-0018
+type: system_requirement
+status: approved
+title: Wrap long lines with consistent indentation
+text: >-
+  Optionally break long lines if it significantly improves readability, and when doing so
+  indent continuation lines so wrapped attributes are distinguished from child elements.
+links:
+- target: UR-0005
+  type: implements
+attrs:
+  source_ref: "Google HTML/CSS Style Guide: HTML — Formatting Rules — HTML Line-Wrapping"

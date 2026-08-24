@@ -1,0 +1,13 @@
+uid: SR-0013
+type: system_requirement
+status: approved
+title: Use entity references only where required
+text: >-
+  Do not use entity references such as &mdash; assuming the same encoding (UTF-8) is used
+  across files and editors; the only exceptions are characters with special meaning in
+  HTML and invisible or ambiguous control characters.
+links:
+- target: UR-0004
+  type: implements
+attrs:
+  source_ref: "Google HTML/CSS Style Guide: HTML — Style Rules — Entity References"

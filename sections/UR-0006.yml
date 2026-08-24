@@ -1,0 +1,11 @@
+uid: UR-0006
+type: user_requirement
+status: approved
+title: CSS Style Rules
+text: >-
+  Rules governing validity, naming, selectors and value notation in CSS.
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: "Google HTML/CSS Style Guide: CSS — Style Rules"

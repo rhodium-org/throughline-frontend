@@ -1,0 +1,12 @@
+uid: SR-0007
+type: system_requirement
+status: approved
+title: Mark todos with TODO
+text: >-
+  Highlight todos and action items by using the keyword TODO only, not other formats such
+  as @@, and append a contact or description in parentheses after a colon.
+links:
+- target: UR-0003
+  type: implements
+attrs:
+  source_ref: "Google HTML/CSS Style Guide: General — Meta Rules — Action Items"

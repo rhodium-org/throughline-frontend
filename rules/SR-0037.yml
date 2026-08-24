@@ -1,0 +1,12 @@
+uid: SR-0037
+type: system_requirement
+status: approved
+title: Put a space before a declaration block
+text: >-
+  Use a single space between the last selector and the opening brace that begins the
+  declaration block, on the same line as the last selector.
+links:
+- target: UR-0007
+  type: implements
+attrs:
+  source_ref: "Google HTML/CSS Style Guide: CSS — Formatting Rules — Declaration Block Separation"

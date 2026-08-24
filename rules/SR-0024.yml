@@ -1,0 +1,12 @@
+uid: SR-0024
+type: system_requirement
+status: approved
+title: Optionally prefix selectors with an application-specific namespace
+text: >-
+  Optionally prefix selectors with an application-specific prefix, used as a namespace, to
+  help avoid naming conflicts and ease maintenance in large projects.
+links:
+- target: UR-0006
+  type: implements
+attrs:
+  source_ref: "Google HTML/CSS Style Guide: CSS — Style Rules — Prefixes"

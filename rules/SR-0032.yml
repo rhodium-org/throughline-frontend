@@ -1,0 +1,12 @@
+uid: SR-0032
+type: system_requirement
+status: approved
+title: Avoid user agent detection and CSS hacks
+text: >-
+  Avoid user agent detection and CSS hacks, trying a different approach first, as they
+  hurt maintainability and are a last resort.
+links:
+- target: UR-0006
+  type: implements
+attrs:
+  source_ref: "Google HTML/CSS Style Guide: CSS — Style Rules — Hacks"

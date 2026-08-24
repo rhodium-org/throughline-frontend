@@ -1,0 +1,12 @@
+uid: SR-0034
+type: system_requirement
+status: approved
+title: Indent all block content
+text: >-
+  Indent all block content, that is rules within rules as well as declarations, to reflect
+  hierarchy and improve understanding.
+links:
+- target: UR-0007
+  type: implements
+attrs:
+  source_ref: "Google HTML/CSS Style Guide: CSS — Formatting Rules — Block Content Indentation"

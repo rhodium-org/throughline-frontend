@@ -1,0 +1,11 @@
+uid: UR-0001
+type: user_requirement
+status: approved
+title: General Style Rules
+text: >-
+  Rules that apply to both HTML and CSS governing how external resources are referenced.
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: "Google HTML/CSS Style Guide: General — Style Rules"

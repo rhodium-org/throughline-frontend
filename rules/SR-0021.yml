@@ -1,0 +1,12 @@
+uid: SR-0021
+type: system_requirement
+status: approved
+title: Name classes by meaning, not appearance
+text: >-
+  Use class names that are meaningful or generic, reflecting the purpose of the element or
+  being neutral, rather than presentational or cryptic names.
+links:
+- target: UR-0006
+  type: implements
+attrs:
+  source_ref: "Google HTML/CSS Style Guide: CSS — Style Rules — Class Naming"

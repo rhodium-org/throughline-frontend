@@ -1,0 +1,12 @@
+uid: SR-0031
+type: system_requirement
+status: approved
+title: Avoid !important declarations
+text: >-
+  Avoid using !important declarations; work with selector specificity or a more structured
+  approach to make styles easier to maintain.
+links:
+- target: UR-0006
+  type: implements
+attrs:
+  source_ref: "Google HTML/CSS Style Guide: CSS — Style Rules — Important Declarations"

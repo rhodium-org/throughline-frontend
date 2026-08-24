@@ -1,0 +1,12 @@
+uid: SR-0022
+type: system_requirement
+status: approved
+title: Keep class names as short as possible but as long as necessary
+text: >-
+  Use class names that are as short as possible but as long as necessary, conveying what
+  an element is about while being as concise as it can be.
+links:
+- target: UR-0006
+  type: implements
+attrs:
+  source_ref: "Google HTML/CSS Style Guide: CSS — Style Rules — Class Name Style"

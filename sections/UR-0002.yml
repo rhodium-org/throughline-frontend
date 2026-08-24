@@ -1,0 +1,12 @@
+uid: UR-0002
+type: user_requirement
+status: approved
+title: General Formatting Rules
+text: >-
+  Rules that apply to both HTML and CSS governing indentation, capitalisation and
+  whitespace.
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: "Google HTML/CSS Style Guide: General — Formatting Rules"

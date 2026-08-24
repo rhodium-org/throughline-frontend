@@ -1,0 +1,11 @@
+uid: SR-0004
+type: system_requirement
+status: approved
+title: Remove trailing whitespace
+text: >-
+  Remove trailing white spaces, as they are unnecessary and can complicate diffs.
+links:
+- target: UR-0002
+  type: implements
+attrs:
+  source_ref: "Google HTML/CSS Style Guide: General — Formatting Rules — Trailing Whitespace"

@@ -1,0 +1,13 @@
+uid: SR-0005
+type: system_requirement
+status: approved
+title: Use UTF-8 without a BOM
+text: >-
+  Use UTF-8 with no byte-order mark, and declare the encoding in HTML templates and
+  documents with meta charset="utf-8"; do not specify an encoding for style sheets, which
+  assume UTF-8.
+links:
+- target: UR-0003
+  type: implements
+attrs:
+  source_ref: "Google HTML/CSS Style Guide: General — Meta Rules — Encoding"

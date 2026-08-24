@@ -1,0 +1,13 @@
+uid: SR-0040
+type: system_requirement
+status: approved
+title: Use single quotes for CSS values and selectors
+text: >-
+  Use single quotation marks for attribute selectors and property values, and do not use
+  quotation marks in URI values (url()); the exception is that @charset requires double
+  quotation marks.
+links:
+- target: UR-0007
+  type: implements
+attrs:
+  source_ref: "Google HTML/CSS Style Guide: CSS — Formatting Rules — CSS Quotation Marks"

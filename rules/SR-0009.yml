@@ -1,0 +1,12 @@
+uid: SR-0009
+type: system_requirement
+status: approved
+title: Use valid HTML where possible
+text: >-
+  Use valid HTML wherever possible, verified with a validator, unless dealing with file
+  size performance goals that unavoidable validity issues would compromise.
+links:
+- target: UR-0004
+  type: implements
+attrs:
+  source_ref: "Google HTML/CSS Style Guide: HTML — Style Rules — HTML Validity"

@@ -1,0 +1,12 @@
+uid: SR-0011
+type: system_requirement
+status: approved
+title: Provide multimedia fallbacks
+text: >-
+  Provide alternative contents for multimedia: meaningful alternative text (alt) for
+  images and transcripts or captions for video and audio.
+links:
+- target: UR-0004
+  type: implements
+attrs:
+  source_ref: "Google HTML/CSS Style Guide: HTML — Style Rules — Multimedia Fallback"

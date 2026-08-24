@@ -1,0 +1,11 @@
+uid: UR-0004
+type: user_requirement
+status: approved
+title: HTML Style Rules
+text: >-
+  Rules governing document type, validity, semantics, fallbacks and attributes in HTML.
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: "Google HTML/CSS Style Guide: HTML — Style Rules"

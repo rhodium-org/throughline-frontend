@@ -1,0 +1,12 @@
+uid: SR-0027
+type: system_requirement
+status: approved
+title: Use shorthand properties where possible
+text: >-
+  Use shorthand properties where possible, even when only setting one value, to improve
+  efficiency and understandability.
+links:
+- target: UR-0006
+  type: implements
+attrs:
+  source_ref: "Google HTML/CSS Style Guide: CSS — Style Rules — Shorthand Properties"

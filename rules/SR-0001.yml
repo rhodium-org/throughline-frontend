@@ -1,0 +1,12 @@
+uid: SR-0001
+type: system_requirement
+status: approved
+title: Use HTTPS for embedded resources
+text: >-
+  Always use HTTPS (https:) for images, media files, style sheets and scripts, unless the
+  respective files are not available over HTTPS.
+links:
+- target: UR-0001
+  type: implements
+attrs:
+  source_ref: "Google HTML/CSS Style Guide: General — Style Rules — Protocol"

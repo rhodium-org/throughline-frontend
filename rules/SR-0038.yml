@@ -1,0 +1,11 @@
+uid: SR-0038
+type: system_requirement
+status: approved
+title: Separate selectors and declarations by new lines
+text: >-
+  Put each selector and each declaration on its own line.
+links:
+- target: UR-0007
+  type: implements
+attrs:
+  source_ref: "Google HTML/CSS Style Guide: CSS — Formatting Rules — Selector and Declaration Separation"

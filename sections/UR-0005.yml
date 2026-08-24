@@ -1,0 +1,11 @@
+uid: UR-0005
+type: user_requirement
+status: approved
+title: HTML Formatting Rules
+text: >-
+  Rules governing line breaks, line wrapping and quotation marks in HTML.
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: "Google HTML/CSS Style Guide: HTML — Formatting Rules"

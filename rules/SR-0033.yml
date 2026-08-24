@@ -1,0 +1,12 @@
+uid: SR-0033
+type: system_requirement
+status: approved
+title: Alphabetise declarations
+text: >-
+  Optionally put declarations in alphabetical order for consistent and easy-to-remember
+  ordering, ignoring vendor-specific prefixes for sorting purposes.
+links:
+- target: UR-0007
+  type: implements
+attrs:
+  source_ref: "Google HTML/CSS Style Guide: CSS — Formatting Rules — Declaration Order"
