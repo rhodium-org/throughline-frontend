@@ -1,12 +1,12 @@
 uid: SR-0026
 type: system_requirement
-status: approved
+status: proposed
 title: Avoid ID selectors
-text: >-
-  Avoid ID selectors where possible, as they are unnecessarily specific and are hard to
-  keep unique; prefer class and descendant-combinator selectors.
+text: Avoid ID selectors where possible, as they are unnecessarily specific and are
+  hard to keep unique; prefer class and descendant-combinator selectors.
+normative: true
 links:
 - target: UR-0006
   type: implements
 attrs:
-  source_ref: "Google HTML/CSS Style Guide: CSS — Style Rules — ID Selectors"
+  source_ref: 'Google HTML/CSS Style Guide: CSS — Style Rules — ID Selectors'

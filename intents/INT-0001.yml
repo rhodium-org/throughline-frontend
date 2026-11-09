@@ -1,12 +1,11 @@
 uid: INT-0001
 type: intent
-status: approved
+status: proposed
 title: HTML and CSS are authored in one consistent, maintainable style
-text: >-
-  The Google HTML/CSS Style Guide exists so that markup and style sheets across a large
-  codebase read as though written by one author: consistent structure, formatting, naming
-  and feature choices, with structure, presentation and behaviour kept separate, so that
-  any engineer can read and change front-end code they did not write.
+text: 'The Google HTML/CSS Style Guide exists so that markup and style sheets across
+  a large codebase read as though written by one author: consistent structure, formatting,
+  naming and feature choices, with structure, presentation and behaviour kept separate,
+  so that any engineer can read and change front-end code they did not write.'
 normative: false
 attrs:
-  source_ref: "Google HTML/CSS Style Guide"
+  source_ref: Google HTML/CSS Style Guide

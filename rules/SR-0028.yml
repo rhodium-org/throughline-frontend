@@ -1,11 +1,11 @@
 uid: SR-0028
 type: system_requirement
-status: approved
+status: proposed
 title: Omit units after a zero value
-text: >-
-  Do not use units after 0 values unless they are required by the property.
+text: Do not use units after 0 values unless they are required by the property.
+normative: true
 links:
 - target: UR-0006
   type: implements
 attrs:
-  source_ref: "Google HTML/CSS Style Guide: CSS — Style Rules — 0 and Units"
+  source_ref: 'Google HTML/CSS Style Guide: CSS — Style Rules — 0 and Units'

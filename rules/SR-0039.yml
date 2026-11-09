@@ -1,11 +1,11 @@
 uid: SR-0039
 type: system_requirement
-status: approved
+status: proposed
 title: Separate rules by blank lines
-text: >-
-  Always put a blank line between two rules.
+text: Always put a blank line between two rules.
+normative: true
 links:
 - target: UR-0007
   type: implements
 attrs:
-  source_ref: "Google HTML/CSS Style Guide: CSS — Formatting Rules — Rule Separation"
+  source_ref: 'Google HTML/CSS Style Guide: CSS — Formatting Rules — Rule Separation'

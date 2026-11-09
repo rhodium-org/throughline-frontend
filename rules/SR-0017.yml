@@ -1,12 +1,13 @@
 uid: SR-0017
 type: system_requirement
-status: approved
+status: proposed
 title: Put each block, list or table element on its own line
-text: >-
-  Use a new line for every block, list or table element, and indent every such child
-  element, independent of whether the element's styling has been changed with CSS.
+text: Use a new line for every block, list or table element, and indent every such
+  child element, independent of whether the element's styling has been changed with
+  CSS.
+normative: true
 links:
 - target: UR-0005
   type: implements
 attrs:
-  source_ref: "Google HTML/CSS Style Guide: HTML — Formatting Rules — General Formatting"
+  source_ref: 'Google HTML/CSS Style Guide: HTML — Formatting Rules — General Formatting'

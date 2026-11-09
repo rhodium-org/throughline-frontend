@@ -1,12 +1,12 @@
 uid: SR-0020
 type: system_requirement
-status: approved
+status: proposed
 title: Use valid CSS where possible
-text: >-
-  Use valid CSS wherever possible, verified with a validator, unless dealing with
-  validator bugs or proprietary syntax that require otherwise.
+text: Use valid CSS wherever possible, verified with a validator, unless dealing
+  with validator bugs or proprietary syntax that require otherwise.
+normative: true
 links:
 - target: UR-0006
   type: implements
 attrs:
-  source_ref: "Google HTML/CSS Style Guide: CSS — Style Rules — CSS Validity"
+  source_ref: 'Google HTML/CSS Style Guide: CSS — Style Rules — CSS Validity'

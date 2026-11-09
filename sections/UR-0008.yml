@@ -1,11 +1,11 @@
 uid: UR-0008
 type: user_requirement
-status: approved
+status: proposed
 title: CSS Meta Rules
-text: >-
-  Rules governing the organisation of a style sheet with section comments.
+text: Rules governing the organisation of a style sheet with section comments.
+normative: true
 links:
 - target: INT-0001
   type: derives_from
 attrs:
-  source_ref: "Google HTML/CSS Style Guide: CSS — Meta Rules"
+  source_ref: 'Google HTML/CSS Style Guide: CSS — Meta Rules'

@@ -1,11 +1,12 @@
 uid: UR-0007
 type: user_requirement
-status: approved
+status: proposed
 title: CSS Formatting Rules
-text: >-
-  Rules governing declaration order, indentation, spacing and quotation marks in CSS.
+text: Rules governing declaration order, indentation, spacing and quotation marks
+  in CSS.
+normative: true
 links:
 - target: INT-0001
   type: derives_from
 attrs:
-  source_ref: "Google HTML/CSS Style Guide: CSS — Formatting Rules"
+  source_ref: 'Google HTML/CSS Style Guide: CSS — Formatting Rules'

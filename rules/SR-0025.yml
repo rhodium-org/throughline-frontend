@@ -1,12 +1,12 @@
 uid: SR-0025
 type: system_requirement
-status: approved
+status: proposed
 title: Do not qualify class selectors with type selectors
-text: >-
-  Avoid qualifying class names with type selectors unless necessary, for performance
+text: Avoid qualifying class names with type selectors unless necessary, for performance
   reasons and to keep selectors terse.
+normative: true
 links:
 - target: UR-0006
   type: implements
 attrs:
-  source_ref: "Google HTML/CSS Style Guide: CSS — Style Rules — Type Selectors"
+  source_ref: 'Google HTML/CSS Style Guide: CSS — Style Rules — Type Selectors'

@@ -1,11 +1,12 @@
 uid: UR-0003
 type: user_requirement
-status: approved
+status: proposed
 title: General Meta Rules
-text: >-
-  Rules that apply to both HTML and CSS governing encoding, comments and action items.
+text: Rules that apply to both HTML and CSS governing encoding, comments and action
+  items.
+normative: true
 links:
 - target: INT-0001
   type: derives_from
 attrs:
-  source_ref: "Google HTML/CSS Style Guide: General — Meta Rules"
+  source_ref: 'Google HTML/CSS Style Guide: General — Meta Rules'

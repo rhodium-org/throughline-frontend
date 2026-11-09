@@ -1,12 +1,12 @@
 uid: SR-0014
 type: system_requirement
-status: approved
+status: proposed
 title: Omit optional tags where beneficial
-text: >-
-  For file size optimisation and scannability, optionally omit optional tags such as html,
-  head, body, and closing p and li tags.
+text: For file size optimisation and scannability, optionally omit optional tags
+  such as html, head, body, and closing p and li tags.
+normative: true
 links:
 - target: UR-0004
   type: implements
 attrs:
-  source_ref: "Google HTML/CSS Style Guide: HTML — Style Rules — Optional Tags"
+  source_ref: 'Google HTML/CSS Style Guide: HTML — Style Rules — Optional Tags'

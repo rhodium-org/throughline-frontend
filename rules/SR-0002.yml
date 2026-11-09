@@ -1,12 +1,12 @@
 uid: SR-0002
 type: system_requirement
-status: approved
+status: proposed
 title: Indent by two spaces at a time
-text: >-
-  Indent code by two spaces at a time; do not use tabs or mix tabs and spaces for
-  indentation.
+text: Indent code by two spaces at a time; do not use tabs or mix tabs and spaces
+  for indentation.
+normative: true
 links:
 - target: UR-0002
   type: implements
 attrs:
-  source_ref: "Google HTML/CSS Style Guide: General — Formatting Rules — Indentation"
+  source_ref: 'Google HTML/CSS Style Guide: General — Formatting Rules — Indentation'
